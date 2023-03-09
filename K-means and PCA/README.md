@@ -1,1 +1,1 @@
-
+The Madelon dataset is a synthetic dataset that was generated for machine learning. It is a high-dimensional dataset, with 500 features and 2,600 data points. It has a highly non-linear structure. I’ll be diving into it further with PCA and k-means clustering. 
